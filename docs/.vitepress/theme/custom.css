@@ -1,0 +1,107 @@
+/* === Tema UPTP — paleta basada en el logo (rojo institucional) === */
+
+:root {
+  /* Brand (rojo UPTP) */
+  --vp-c-brand-1: #c0392b;
+  --vp-c-brand-2: #d94a3b;
+  --vp-c-brand-3: #e85a4b;
+  --vp-c-brand-soft: rgba(192, 57, 43, 0.14);
+
+  /* Hover y enlaces */
+  --vp-c-brand-light: #d94a3b;
+  --vp-c-brand-lighter: #e85a4b;
+  --vp-c-brand-dark: #a13123;
+  --vp-c-brand-darker: #832519;
+
+  /* Botones */
+  --vp-button-brand-border: var(--vp-c-brand-1);
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+  --vp-button-brand-hover-border: var(--vp-c-brand-2);
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-active-border: var(--vp-c-brand-dark);
+  --vp-button-brand-active-text: #ffffff;
+  --vp-button-brand-active-bg: var(--vp-c-brand-dark);
+
+  /* Hero */
+  --vp-home-hero-name-color: var(--vp-c-brand-1);
+  --vp-home-hero-name-background: linear-gradient(120deg, #c0392b 30%, #e85a4b);
+
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    rgba(192, 57, 43, 0.35) 50%,
+    rgba(50, 50, 55, 0.3) 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+/* Logo del header con un poquito de aire */
+.VPNavBarTitle .logo {
+  border-radius: 6px;
+  height: 28px;
+}
+
+/* Hero image más prominente */
+.VPHero .image-container {
+  max-width: 360px;
+}
+.VPHero .image-bg {
+  width: 320px;
+  height: 320px;
+}
+.VPHero .image-src {
+  max-width: 280px;
+  max-height: 280px;
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 12px;
+}
+.dark .VPHero .image-src {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+/* Tarjetas de features con más carácter */
+.VPFeature {
+  border: 1px solid var(--vp-c-divider);
+  transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+}
+.VPFeature:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -12px rgba(192, 57, 43, 0.35);
+}
+.VPFeature .icon {
+  background-color: var(--vp-c-brand-soft) !important;
+  font-size: 26px;
+}
+
+/* Bloques de tip/warning/info con borde acentuado */
+.custom-block.tip {
+  border-color: var(--vp-c-brand-1);
+}
+
+/* Headings con un acento sutil */
+.vp-doc h1 {
+  background: linear-gradient(120deg, var(--vp-c-brand-1) 30%, var(--vp-c-brand-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Mejor contraste en tablas */
+.vp-doc th {
+  background-color: var(--vp-c-brand-soft);
+}
+
+/* Buscador con un acento */
+.DocSearch-Button {
+  border-radius: 8px !important;
+}
+
+/* Imágenes de los ejemplos con marco suave */
+.vp-doc img {
+  border-radius: 8px;
+  box-shadow: 0 4px 16px -8px rgba(0, 0, 0, 0.2);
+  max-width: 100%;
+}

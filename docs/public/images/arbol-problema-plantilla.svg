@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 620" role="img" aria-label="Plantilla del árbol del problema">
+  <title>Árbol de Problemas — plantilla</title>
+
+  <!-- Marco -->
+  <rect x="2" y="2" width="356" height="616" rx="14" fill="#fff8e1" stroke="#e7c34a" stroke-width="2"/>
+
+  <!-- Banda título -->
+  <rect x="20" y="20" width="320" height="56" rx="10" fill="#c0392b"/>
+  <text x="180" y="55" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="800" fill="#fff">Árbol de Problemas</text>
+
+  <!-- Copa (efectos) -->
+  <ellipse cx="180" cy="190" rx="150" ry="90" fill="#a7d35a" stroke="#5b8b1f" stroke-width="2"/>
+  <text x="60" y="160" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="800" fill="#1f2d11">Efectos</text>
+  <rect x="195" y="135" width="120" height="22" rx="4" fill="#fff" stroke="#5b8b1f"/>
+  <rect x="195" y="170" width="120" height="22" rx="4" fill="#fff" stroke="#5b8b1f"/>
+  <rect x="195" y="205" width="120" height="22" rx="4" fill="#fff" stroke="#5b8b1f"/>
+
+  <!-- Tronco -->
+  <path d="M155 280 Q150 360 145 430 L215 430 Q210 360 205 280 Z" fill="#7b4a23" stroke="#3e2410" stroke-width="2"/>
+  <text x="78" y="350" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="800" fill="#3e2410">Problema</text>
+  <text x="82" y="372" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="800" fill="#3e2410">central</text>
+  <rect x="225" y="340" width="115" height="24" rx="4" fill="#fff" stroke="#3e2410"/>
+
+  <!-- Raíces / suelo -->
+  <path d="M40 430 Q180 410 320 430 L320 540 Q180 560 40 540 Z" fill="#8c5a32" stroke="#3e2410" stroke-width="2"/>
+  <text x="60" y="490" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="800" fill="#fff">Causas</text>
+  <rect x="160" y="450" width="170" height="22" rx="4" fill="#fff" stroke="#3e2410"/>
+  <rect x="160" y="485" width="170" height="22" rx="4" fill="#fff" stroke="#3e2410"/>
+  <rect x="160" y="520" width="170" height="22" rx="4" fill="#fff" stroke="#3e2410"/>
+
+  <!-- Banda inferior -->
+  <rect x="20" y="560" width="320" height="40" rx="8" fill="#c0392b"/>
+  <text x="180" y="586" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#fff">Lectura: las causas (abajo) generan el problema (centro), que produce efectos (arriba).</text>
+</svg>

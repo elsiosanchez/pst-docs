@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# VitePress
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
+# Variables de entorno
+.env
+.env.local
+
+# Trabajo modelo en PDF (no se publica)
+docs/public/Trabajo_de_Proyecto_CORREGIDO.pdf
