@@ -6,6 +6,8 @@ export default defineConfig({
   lang: 'es',
   lastUpdated: true,
   cleanUrls: true,
+  base: '/pst-docs/',
+  ignoreDeadLinks: true,
 
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/images/uptp.ico' }],
