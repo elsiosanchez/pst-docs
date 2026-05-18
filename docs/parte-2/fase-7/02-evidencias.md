@@ -52,7 +52,7 @@ A continuación, un ejemplo real de **acta de visita** debidamente completada �
 
 #### Modelo mínimo de acta
 
-```text
+```md
 ACTA Nº ___
 
 En la ciudad de ____________________, a los ____ días del mes de
