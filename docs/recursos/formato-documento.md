@@ -28,6 +28,18 @@ Es la primera página del documento y debe respetar el formato oficial UPTP / PN
 - **No hay punto final** en el título de portada.
 :::
 
+### Modelo oficial de portada (plantilla)
+
+Este es el formato institucional UPTP que entrega la Coordinación. Te muestra la disposición exacta de encabezado, título, línea de investigación, código del proyecto, autores, docente, tutores, comunidad beneficiada, ciudad y fecha:
+
+![Modelo oficial de portada UPTP / PNFI — plantilla en blanco con encabezado institucional, "Título del Proyecto", línea de investigación, código del proyecto, autores, docente, tutores, comunidad beneficiada y fecha](/images/portada-plantilla.png)
+
+### Ejemplo de portada completada
+
+Y este es un ejemplo de portada **debidamente completada** para un proyecto real del PNFI. Te sirve como referencia de cómo se ven todos los campos llenos: título extendido, línea de investigación, código, autores con cédula y correo, docente, tutores, comunidad, fecha de socialización y lapso académico:
+
+![Ejemplo de portada completada — "Aplicación Web para las Solicitudes en Línea de la Coordinación del PNFI", con todos los campos institucionales llenos: autores con cédula y correo, docente, tutores, comunidad beneficiada, fecha de socialización y lapso académico](/images/portada-ejemplo-completado.png)
+
 ### Plantilla de portada (texto)
 
 ```text
@@ -110,6 +122,28 @@ Convenciones UPTP habituales para el PST I:
 
 ::: warning Antes de imprimir o entregar
 Revisa que la **paginación arranque desde la introducción** (no desde la portada) y que el **índice esté actualizado** con los números reales. Es el error de forma más frecuente.
+:::
+
+## Etiqueta del CD del Proyecto Final
+
+El producto final del proyecto se entrega en CD con una **etiqueta oficial** diagramada por la Coordinación de la Unidad de Proyectos de los PNF. Esta etiqueta es **obligatoria** y tiene reglas concretas de tipografía, color y contenido.
+
+**Reglas básicas:**
+
+- Color de la etiqueta: **blanco**.
+- Tipo de letra: **Times New Roman o Arial, color negro**.
+- Debe incluir, en la parte superior: nombre del país, ministerio actual completo, nombre completo de la institución, Programa Nacional de Formación, ciudad y estado de la institución.
+- **Logo oficial** de la institución (UPTP "Juan de Jesús Montilla") a la izquierda del disco.
+- **Datos de las personas** (autores, docente, tutor y comunidad beneficiada) a la derecha del disco, ordenados alfabéticamente (A–Z) por primer apellido + inicial del segundo apellido, primer nombre + inicial del segundo nombre.
+- **Título completo del proyecto** y **código del Proyecto Socio Integrador** debajo del disco.
+- **Ciudad sede, mes y año** de socialización del proyecto al pie.
+
+A continuación, el modelo de diagramación oficial:
+
+![Modelo de diagramación oficial de la Etiqueta del CD del Proyecto Final — emitido por la Coordinación de la Unidad de Proyectos de los PNF, con leyendas que indican dónde va el logo institucional, los datos del país y ministerio, los datos de las personas (autores, docente, tutor y comunidad), el título del proyecto, el código del Proyecto Socio Integrador y la ciudad, mes y año](/images/etiqueta-cd-proyecto-final.png)
+
+::: tip Pídelo en alta resolución
+La Coordinación entrega la plantilla de la etiqueta en formato editable. Pídela al inicio del Trayecto para no improvisarla la semana de la entrega.
 :::
 
 ## Anexos

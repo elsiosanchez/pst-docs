@@ -44,6 +44,12 @@ Documento oficial que valida la visita ante la comunidad y la institución.
 Sin el **sello de la institución comunitaria**, el acta no tiene validez ante la coordinación. Asegúrate de llevar el formato impreso a cada visita y pedir el sello en el mismo encuentro — no después.
 :::
 
+#### Ejemplo de acta completada
+
+A continuación, un ejemplo real de **acta de visita** debidamente completada — con identificación de cada asistente (nombre, cédula y cargo), firmas y sello institucional al pie. Este es el formato de referencia que tu equipo debería entregar para cada visita.
+
+![Ejemplo de acta de visita completada — Asociación de Árbitros del Estado Portuguesa, con listado de asistentes, cédulas, cargos, firmas y sello institucional al pie](/images/acta-visita-completada.png)
+
 #### Modelo mínimo de acta
 
 ```text
@@ -81,6 +87,12 @@ Formato institucional **único** donde se registran **todas** las visitas del pr
 - **Aspectos tratados** (resumen breve de la actividad).
 - **Asistentes** (nombres y firmas de los participantes ese día).
 - **Firma del responsable** estudiantil de la sesión.
+
+#### Formato oficial (plantilla en blanco)
+
+Este es el formato institucional vigente emitido por la Coordinación del PNFI. Es el que debes imprimir y llevar a cada visita:
+
+![Plantilla oficial "Proyecto Sociotecnológico — Control de Visitas" (PNFI, 2015) en blanco, con columnas Fecha, Aspectos Tratados y Asistentes (Nombre y firmas)](/images/control-visitas-pst-plantilla.png)
 
 ::: tip Una sola hoja, varias visitas
 El Control de Visitas PST se completa **a mano, sesión por sesión**, en el mismo formato institucional. Al cierre del proyecto, esa hoja (o esas pocas hojas) muestra de un vistazo todo el recorrido del equipo en la comunidad.
