@@ -26,8 +26,8 @@ Una **reflexión crítica** dice "hicimos X y nos funcionó bien porque... pero 
 
 ## Recomendaciones
 
-- Hablá en **primera persona del plural** ("nosotros vivimos", "aprendimos", "subestimamos") — esto es un PST, no una tesis científica neutra.
-- Identificá **al menos 2 fortalezas y 2 debilidades** de tu propio proceso.
-- Cerrá con un **aprendizaje**: ¿qué te llevás de la experiencia que no esperabas al principio?
+- Habla en **primera persona del plural** ("nosotros vivimos", "aprendimos", "subestimamos") — esto es un PST, no una tesis científica neutra.
+- Identifica **al menos 2 fortalezas y 2 debilidades** de tu propio proceso.
+- Cierra con un **aprendizaje**: ¿qué te llevas de la experiencia que no esperabas al principio?
 - Largo orientativo: **3 a 5 párrafos** (no más).
 

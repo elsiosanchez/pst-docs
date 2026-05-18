@@ -2,7 +2,7 @@
 
 ## ¿Qué pide el esquema?
 
-Describir, en prosa, **cómo se realizó el primer contacto con la comunidad** y los pasos que se siguieron para llegar al diagnóstico inicial. No es la metodología (eso va en la próxima sección): acá se cuenta el proceso vivido.
+Describir, en prosa, **cómo se realizó el primer contacto con la comunidad** y los pasos que se siguieron para llegar al diagnóstico inicial. No es la metodología (eso va en la próxima sección): aquí se cuenta el proceso vivido.
 
 Debe responder:
 
@@ -21,10 +21,10 @@ Debe responder:
 
 ## Recomendaciones
 
-- Usá **lenguaje narrativo** (en pasado), no técnico ni excesivamente formal.
-- Mencioná **quiénes** participaron del primer contacto (estudiantes y voceros de la comunidad).
-- Sé honesto: si hubo dificultades para acceder, contalas.
-- Evitá adelantarte: no expliques todavía el método (eso va en la siguiente página).
+- Usa **lenguaje narrativo** (en pasado), no técnico ni excesivamente formal.
+- Menciona **quiénes** participaron del primer contacto (estudiantes y voceros de la comunidad).
+- Sé honesto: si hubo dificultades para acceder, cuéntalas.
+- Evita adelantarte: no expliques todavía el método (eso va en la siguiente página).
 
 ::: tip
 Un buen indicador de que esta sección está completa es que un lector externo, leyéndola, pueda reconstruir **mentalmente** cómo llegaste a la comunidad y qué encontraste al principio.

@@ -5,7 +5,7 @@
 Una **infografía** (representación visual) de los valores que el equipo del proyecto identifica como propios. No es un listado: es una pieza visual que comunique los valores compartidos por el grupo de estudiantes.
 
 ::: tip Aclaración sobre el título
-El esquema oficial dice exactamente **"Infografía de los valores presentes en el equipo de PST I"** — no solo "Valores presentes...". Asegurate de usar el título completo.
+El esquema oficial dice exactamente **"Infografía de los valores presentes en el equipo de PST I"** — no solo "Valores presentes...". Asegúrate de usar el título completo.
 :::
 
 ## Ejemplo de referencia
@@ -26,8 +26,8 @@ Los valores identificados por el equipo del trabajo modelo fueron:
 ## Recomendaciones
 
 - Herramientas sugeridas para la infografía: **Canva**, **Genially**, **Piktochart**, **LibreOffice Impress**.
-- Mantené **coherencia visual**: colores, tipografía y estilo uniformes.
-- Definí los valores en una **sesión de equipo previa**: no los inventes individualmente.
+- Mantén **coherencia visual**: colores, tipografía y estilo uniformes.
+- Define los valores en una **sesión de equipo previa**: no los inventes individualmente.
 - 5 a 8 valores es un rango razonable. Menos puede parecer pobre; más se vuelve difícil de visualizar.
 - La infografía es para que un externo **entienda quién es tu equipo en 30 segundos** mirándola.
 

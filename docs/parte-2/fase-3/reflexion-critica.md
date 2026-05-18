@@ -16,6 +16,6 @@ Reflexión sobre el proceso de inversión problema→objetivo y la selección de
 
 ## Recomendaciones
 
-- Reflexioná sobre **lo que dejaste afuera**, no solo sobre lo que elegiste. Eso evidencia que el análisis fue profundo.
+- Reflexiona sobre **lo que dejaste fuera**, no solo sobre lo que elegiste. Eso evidencia que el análisis fue profundo.
 - Si tu equipo tuvo **dudas o desacuerdos** internos sobre qué priorizar, esta es la sección para narrarlos (sin nombres, sin dramas).
 

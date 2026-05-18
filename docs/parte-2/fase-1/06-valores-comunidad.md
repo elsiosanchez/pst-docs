@@ -2,7 +2,7 @@
 
 ## ¿Qué pide el esquema?
 
-Una **segunda infografía**, distinta a la del equipo, que represente los **valores que la comunidad comparte** y reconoce como propios. No son los mismos valores del equipo: son los de los actores sociales con quienes trabajás.
+Una **segunda infografía**, distinta a la del equipo, que represente los **valores que la comunidad comparte** y reconoce como propios. No son los mismos valores del equipo: son los de los actores sociales con quienes trabajas.
 
 Suele construirse a partir de **conversaciones, entrevistas y observación** durante el abordaje.
 
@@ -23,8 +23,8 @@ Los valores identificados en la comunidad arbitral fueron:
 
 ## Recomendaciones
 
-- Identificá puntos en común **entre los valores del equipo y los de la comunidad**: ahí está la base ética para la relación.
-- No proyectes tus propios valores en la comunidad. **Preguntá**, no asumas.
-- Si los valores que identificás son demasiado abstractos ("respeto", "honestidad"), buscá ejemplos concretos del comportamiento de la comunidad que los evidencien.
+- Identifica puntos en común **entre los valores del equipo y los de la comunidad**: ahí está la base ética para la relación.
+- No proyectes tus propios valores en la comunidad. **Pregunta**, no asumas.
+- Si los valores que identificas son demasiado abstractos ("respeto", "honestidad"), busca ejemplos concretos del comportamiento de la comunidad que los evidencien.
 - Esta infografía suele revelarse útil **al final del proyecto**: te permite ver si tu intervención respetó esos valores.
 

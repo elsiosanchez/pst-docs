@@ -39,8 +39,8 @@ Uso de cámaras como herramienta para hacer registro fotográfico del mantenimie
 
 ## Recomendaciones
 
-- Si presentás **más de una alternativa**, justificá explícitamente por qué elegiste una sobre otra.
-- Vinculá cada alternativa con un **medio** del árbol de objetivos: muestra trazabilidad.
-- Mencioná las alternativas **descartadas** y por qué (presupuesto, tiempo, alcance). Eso da seriedad al análisis.
+- Si presentas **más de una alternativa**, justifica explícitamente por qué elegiste una sobre otra.
+- Vincula cada alternativa con un **medio** del árbol de objetivos: muestra trazabilidad.
+- Menciona las alternativas **descartadas** y por qué (presupuesto, tiempo, alcance). Eso da seriedad al análisis.
 - Cuidado con prometer demasiado. Mejor poco y bien hecho.
 

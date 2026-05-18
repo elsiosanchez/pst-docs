@@ -24,8 +24,8 @@ Un **texto descriptivo** que reúna los problemas tal como los expresan los acto
 
 ## Recomendaciones
 
-- Usá **citas textuales** entre comillas cuando sea posible. La voz literal de los actores aporta legitimidad.
-- Agrupá los problemas en **2 o 3 grandes bloques** temáticos, no listes 20 cosas sueltas.
-- Diferenciá **síntomas** (lo visible) de **causas** (lo subyacente). En el ejemplo, "falta de tecnología" es causa, "evaluaciones subjetivas" es síntoma.
-- No interpretes en exceso: dejá la interpretación para el árbol del problema más adelante.
+- Usa **citas textuales** entre comillas cuando sea posible. La voz literal de los actores aporta legitimidad.
+- Agrupa los problemas en **2 o 3 grandes bloques** temáticos, no listes 20 cosas sueltas.
+- Diferencia **síntomas** (lo visible) de **causas** (lo subyacente). En el ejemplo, "falta de tecnología" es causa, "evaluaciones subjetivas" es síntoma.
+- No interpretes en exceso: deja la interpretación para el árbol del problema más adelante.
 

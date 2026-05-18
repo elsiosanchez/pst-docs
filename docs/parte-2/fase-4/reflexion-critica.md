@@ -16,6 +16,6 @@ Reflexión sobre el ejercicio de formular intencionalidad: qué fue difícil de 
 
 ## Recomendaciones
 
-- Cerrá con un comentario sobre **cómo los propósitos guiarán la evaluación final** (Fase VII).
-- Honestidad sobre las **ambiciones contenidas**: ¿hay algún propósito que dejaste afuera por realismo? Mencionalo.
+- Cierra con un comentario sobre **cómo los propósitos guiarán la evaluación final** (Fase VII).
+- Honestidad sobre las **ambiciones contenidas**: ¿hay algún propósito que dejaste fuera por realismo? Menciónalo.
 

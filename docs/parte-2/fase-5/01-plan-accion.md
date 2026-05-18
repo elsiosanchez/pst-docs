@@ -29,9 +29,9 @@ Una **tabla operativa** que traduce los propósitos específicos en actividades 
 
 ## Recomendaciones
 
-- Numerá las filas: facilita referenciar actividades en otras secciones.
+- Numera las filas: facilita referenciar actividades en otras secciones.
 - Cada **objetivo específico** del Plan de Acción debería conversar con un **propósito específico** de la Fase IV.
 - Sé **realista con los tiempos**: 60 min para "Dominar Excel" es demasiado optimista. El ejemplo lo divide en varias sesiones (filas 3, 4 y 5), lo cual es correcto.
-- Listá **recursos físicos** (laptop, videobeam) y **humanos** (docente facilitador, voluntarios).
-- Si una actividad requiere **insumos especiales** (kit de herramientas), mencionalos: ayuda a planificar las compras o préstamos.
+- Lista **recursos físicos** (laptop, videobeam) y **humanos** (docente facilitador, voluntarios).
+- Si una actividad requiere **insumos especiales** (kit de herramientas), menciónalos: ayuda a planificar las compras o préstamos.
 

@@ -2,7 +2,7 @@
 
 ## ¿Qué pide el esquema?
 
-Explicar **qué método** y **qué técnicas e instrumentos** se utilizaron en el abordaje y diagnóstico exploratorio. Acá sí entra la dimensión técnica: nombres de métodos, tipos de entrevista, instrumentos aplicados.
+Explicar **qué método** y **qué técnicas e instrumentos** se utilizaron en el abordaje y diagnóstico exploratorio. Aquí sí entra la dimensión técnica: nombres de métodos, tipos de entrevista, instrumentos aplicados.
 
 Puede incluir:
 
@@ -31,7 +31,7 @@ El trabajo modelo agrega tres parámetros que no son obligatorios pero **suman m
 
 ## Recomendaciones
 
-- Diferenciá claramente **método** (qué tipo de investigación) de **técnica** (cómo se recoge data) e **instrumento** (la herramienta concreta).
-- Si aplicaste un **cuestionario**, **adjuntalo como anexo** al final del trabajo. El esquema premia la trazabilidad.
-- Justificá brevemente **por qué** elegiste cada técnica (ejemplo: la entrevista abierta fue elegida porque permite captar matices que un cuestionario cerrado no capta).
+- Diferencia claramente **método** (qué tipo de investigación) de **técnica** (cómo se recoge data) e **instrumento** (la herramienta concreta).
+- Si aplicaste un **cuestionario**, **adjúntalo como anexo** al final del trabajo. El esquema premia la trazabilidad.
+- Justifica brevemente **por qué** elegiste cada técnica (ejemplo: la entrevista abierta fue elegida porque permite captar matices que un cuestionario cerrado no capta).
 

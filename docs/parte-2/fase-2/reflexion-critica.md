@@ -16,7 +16,7 @@ Una reflexión sobre el **proceso de análisis del problema**: cómo construyero
 
 ## Recomendaciones
 
-- Reflexioná sobre el **método**, no sobre los hallazgos. Los hallazgos ya están en las páginas anteriores.
-- Identificá qué herramienta del EML te resultó **más útil** y por qué. Y cuál te costó más.
+- Reflexiona sobre el **método**, no sobre los hallazgos. Los hallazgos ya están en las páginas anteriores.
+- Identifica qué herramienta del EML te resultó **más útil** y por qué. Y cuál te costó más.
 - Una autocrítica saludable es admitir que la matriz FODA o el árbol los construyó **el equipo solo** y que un proceso más participativo hubiera enriquecido el análisis.
 

@@ -12,7 +12,7 @@ Es una herramienta clave del Enfoque del Marco Lógico (EML). Se construye **des
 
 ## La idea, paso a paso (para quien nunca lo hizo)
 
-Pensá en un árbol literal. Cada parte del árbol representa una parte del problema:
+Piensa en un árbol literal. Cada parte del árbol representa una parte del problema:
 
 <div class="tree-grid">
   <img src="/images/arbol-problema-plantilla.svg" alt="Plantilla del árbol del problema" class="tree-template"/>
@@ -24,25 +24,25 @@ Pensá en un árbol literal. Cada parte del árbol representa una parte del prob
 2. **Tronco → Problema central.** Una sola frase, escrita en *negativo* (algo que NO está bien).
 3. **Copa → Efectos.** Las consecuencias visibles de que el problema exista.
 
-**Cómo armarlo en 5 pasos** ✍️
+**Cómo construirlo en 5 pasos** ✍️
 
-1. Escribí el **problema central** en una sola línea, sin culpas ni nombres propios.
-2. Preguntate **"¿por qué pasa esto?"** y anotá 3 ó más respuestas → esas son las **causas**.
-3. Preguntate **"¿qué provoca este problema?"** y anotá 3 ó más respuestas → esos son los **efectos**.
-4. Releelo: si removés una causa, **¿el problema se debilita?** Si no, esa "causa" en realidad no lo es.
+1. Escribe el **problema central** en una sola línea, sin culpas ni nombres propios.
+2. Pregúntate **"¿por qué pasa esto?"** y anota 3 o más respuestas → esas son las **causas**.
+3. Pregúntate **"¿qué provoca este problema?"** y anota 3 o más respuestas → esos son los **efectos**.
+4. Reléelo: si remueves una causa, **¿el problema se debilita?** Si no, esa "causa" en realidad no lo es.
 5. Cada **causa** debe poder transformarse luego en un **medio** (raíz positiva) en el árbol de objetivos.
 
   </div>
 </div>
 
 ::: tip Cómo leerlo
-**De abajo hacia arriba:** las causas (raíces) generan el problema central (tronco), y éste produce los efectos (ramas). Si removés una causa, debilitás el problema.
+**De abajo hacia arriba:** las causas (raíces) generan el problema central (tronco), y este produce los efectos (ramas). Si remueves una causa, debilitas el problema.
 :::
 
 ::: warning Errores frecuentes
 - **No confundir causa con efecto.** *"Falta de capacitación"* es causa. *"Mala atención al usuario"* es efecto.
 - **No usar nombres propios** ni señalar culpables (*"el director X no quiere…"*). El árbol describe situaciones, no personas.
-- **No mezclar varios problemas.** Si te aparecen dos problemas centrales, hacé dos árboles distintos.
+- **No mezclar varios problemas.** Si te aparecen dos problemas centrales, haz dos árboles distintos.
 :::
 
 ## Ejemplo de referencia
@@ -65,8 +65,8 @@ En el ejemplo, el problema central identificado es:
 
 ## Recomendaciones
 
-- Una sola **causa raíz no alcanza**: identificá 3 o más, conectadas entre sí.
-- Diferenciá **causas directas** (las raíces gruesas) de **causas indirectas o estructurales** (las raíces finas).
+- Una sola **causa raíz no alcanza**: identifica 3 o más, conectadas entre sí.
+- Diferencia **causas directas** (las raíces gruesas) de **causas indirectas o estructurales** (las raíces finas).
 - Lo mismo con efectos: efectos inmediatos arriba, efectos de largo plazo más arriba aún.
 - Si el árbol del problema **no convierte en el árbol de objetivos** del próximo punto, algo está mal. Cada raíz negativa se transformará en un medio (raíz positiva).
 - **Herramientas sugeridas:** Canva (plantilla "árbol del problema"), draw.io, Lucidchart o LibreOffice Draw. Ver [Plantillas y herramientas](/recursos/herramientas).

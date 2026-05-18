@@ -44,7 +44,7 @@ Dos elementos:
 La guía didáctica del soporte técnico **debe construirse con el docente de Arquitectura del Computador**. No es opcional: el esquema lo exige y la nota del trabajo de referencia lo declara explícitamente.
 :::
 
-- Documentá con **fotos** el antes/después del mantenimiento (van en el apartado de Evidencias).
+- Documenta con **fotos** el antes/después del mantenimiento (van en el apartado de Evidencias).
 - La guía didáctica debe ser **reutilizable**: cualquier estudiante o miembro de la comunidad debe poder ejecutar el procedimiento siguiéndola.
-- Diferenciá claramente **mantenimiento físico** de **mantenimiento lógico**.
+- Diferencia claramente **mantenimiento físico** de **mantenimiento lógico**.
 

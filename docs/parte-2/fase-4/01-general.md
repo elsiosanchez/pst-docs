@@ -17,7 +17,7 @@ Un **único enunciado** que sintetice el propósito del proyecto. Debe ser:
 
 - Estructura útil: **Verbo en infinitivo + sujeto + objeto + finalidad**.
   - *"Alfabetizar..." (verbo) "a los miembros de la Sub-Comisión..." (sujeto) "en el uso de herramientas ofimáticas..." (objeto) "con el fin de mejorar la eficiencia operativa..." (finalidad).*
-- Evitá verbos vagos como "fomentar", "promover", "apoyar". Preferí verbos accionables: **capacitar, instalar, desarrollar, implementar, diagnosticar**.
-- Si el enunciado supera **5-6 líneas**, condensá.
+- Evita verbos vagos como "fomentar", "promover", "apoyar". Prefiere verbos accionables: **capacitar, instalar, desarrollar, implementar, diagnosticar**.
+- Si el enunciado supera **5-6 líneas**, condensa.
 - No abras puertas que no vas a poder cumplir ("transformar el arbitraje regional" es demasiado).
 

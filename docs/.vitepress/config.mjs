@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Guía PST I',
-  description: 'Guía paso a paso del Proyecto Socio Tecnológico I — PNFI / UPTP. Pensada para estudiantes que arrancan desde cero.',
+  description: 'Guía paso a paso del Proyecto Socio Tecnológico I — PNFI / UPTP. Pensada para estudiantes que comienzan desde cero.',
   lang: 'es',
   lastUpdated: true,
   cleanUrls: true,
@@ -63,7 +63,8 @@ export default defineConfig({
         items: [
           { text: 'Glosario', link: '/recursos/glosario' },
           { text: 'Referencias bibliográficas', link: '/recursos/referencias' },
-          { text: 'Plantillas y herramientas', link: '/recursos/herramientas' }
+          { text: 'Plantillas y herramientas', link: '/recursos/herramientas' },
+          { text: 'Portada, índice y formato', link: '/recursos/formato-documento' }
         ]
       }
     ],
@@ -74,7 +75,8 @@ export default defineConfig({
           text: 'Punto de partida',
           collapsed: false,
           items: [
-            { text: 'Introducción', link: '/introduccion' }
+            { text: 'Introducción',              link: '/introduccion' },
+            { text: 'Portada, índice y formato', link: '/recursos/formato-documento' }
           ]
         },
         {
@@ -156,6 +158,7 @@ export default defineConfig({
               collapsed: true,
               items: [
                 { text: 'i. Matriz de seguimiento y evaluación',  link: '/parte-2/fase-7/01-matriz-seguimiento' },
+                { text: 'ii. Evidencias del proyecto',            link: '/parte-2/fase-7/02-evidencias' },
                 { text: '✦ Reflexión crítica',                    link: '/parte-2/fase-7/reflexion-critica' }
               ]
             },
@@ -163,12 +166,20 @@ export default defineConfig({
           ]
         },
         {
+          text: 'Parte III — Resultados y Conclusiones',
+          collapsed: false,
+          items: [
+            { text: 'Resultados y Conclusiones', link: '/parte-3/resultados-conclusiones' }
+          ]
+        },
+        {
           text: 'Recursos',
           collapsed: true,
           items: [
-            { text: 'Glosario',                  link: '/recursos/glosario' },
+            { text: 'Glosario',                   link: '/recursos/glosario' },
             { text: 'Referencias bibliográficas', link: '/recursos/referencias' },
-            { text: 'Plantillas y herramientas', link: '/recursos/herramientas' }
+            { text: 'Plantillas y herramientas',  link: '/recursos/herramientas' },
+            { text: 'Portada, índice y formato',  link: '/recursos/formato-documento' }
           ]
         }
       ]

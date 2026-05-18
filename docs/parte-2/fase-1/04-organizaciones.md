@@ -30,8 +30,8 @@ Puede incluir:
 Muchos equipos mencionan **una sola** organización (típicamente el consejo comunal más cercano) y pasan a la siguiente sección. Esto es insuficiente: el esquema pide mapear el **ecosistema** completo.
 :::
 
-- Listá **al menos 3 organizaciones** del entorno, aunque alguna no tenga relación directa con tu proyecto.
-- Para cada una, indicá: **nombre · función · cercanía o vínculo con la comunidad**.
+- Lista **al menos 3 organizaciones** del entorno, aunque alguna no tenga relación directa con tu proyecto.
+- Para cada una, indica: **nombre · función · cercanía o vínculo con la comunidad**.
 - Estas organizaciones son **futuras aliadas potenciales** — el ejercicio sirve también para la sostenibilidad del proyecto.
-- Usá el mapa que armaste en el punto anterior para identificar visualmente qué hay alrededor.
+- Usa el mapa que construiste en el punto anterior para identificar visualmente qué hay alrededor.
 

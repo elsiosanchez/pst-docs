@@ -7,7 +7,7 @@ Una reflexión analítica sobre el **proceso de análisis de los involucrados**.
 - Qué aprendiste sobre la complejidad organizativa de la comunidad.
 - Qué descubrimientos te dio el organigrama o el mapa de actores.
 - Qué valores compartidos identificaste entre tu equipo y la comunidad.
-- Qué errores u omisiones notás en tu propio trabajo de esta fase.
+- Qué errores u omisiones notas en tu propio trabajo de esta fase.
 
 ## Ejemplo de referencia
 
@@ -21,7 +21,7 @@ Una reflexión analítica sobre el **proceso de análisis de los involucrados**.
 
 ## Recomendaciones
 
-- Cerrá con **una pregunta abierta** o un aprendizaje no resuelto: una buena reflexión crítica no pretende cerrar todo prolijamente.
-- Mencioná **al menos una omisión** o debilidad de esta fase de tu trabajo. La honestidad académica se valora.
+- Cierra con **una pregunta abierta** o un aprendizaje no resuelto: una buena reflexión crítica no pretende cerrar todo prolijamente.
+- Menciona **al menos una omisión** o debilidad de esta fase de tu trabajo. La honestidad académica se valora.
 - 3 a 5 párrafos. **Calidad sobre cantidad.**
 

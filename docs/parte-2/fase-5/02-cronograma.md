@@ -30,8 +30,8 @@ El trabajo modelo divide el cronograma en **dos tablas**: semanas 1-12 y semanas
 
 ## Recomendaciones
 
-- Si el proyecto cubre **más de 12 semanas**, dividí el cronograma en varias tablas y titulalas **explícitamente** (no repitas el mismo título).
-- Marcá las **dependencias**: si una actividad depende de otra, debe ir después en el cronograma.
-- Dejá **semanas de holgura**: las cosas siempre se atrasan. Si tu cronograma está al límite, vas a sufrir.
+- Si el proyecto cubre **más de 12 semanas**, divide el cronograma en varias tablas y titúlalas **explícitamente** (no repitas el mismo título).
+- Marca las **dependencias**: si una actividad depende de otra, debe ir después en el cronograma.
+- Deja **semanas de holgura**: las cosas siempre se atrasan. Si tu cronograma está al límite, vas a sufrir.
 - Herramientas útiles: **GanttProject** (gratuito), **Excel/Calc** con formato condicional, **Notion**, **Trello con vistas tipo Gantt**.
 

@@ -18,6 +18,6 @@ Reflexión sobre los resultados alcanzados, la matriz de evaluación y la honest
 
 ## Recomendaciones
 
-- Diferenciá **cobertura** (cuántos asistieron) de **impacto** (cuántos siguen usando lo aprendido). El PST I suele medir cobertura; los PST posteriores deberían medir impacto.
+- Diferencia **cobertura** (cuántos asistieron) de **impacto** (cuántos siguen usando lo aprendido). El PST I suele medir cobertura; los PST posteriores deberían medir impacto.
 - Si una **ponderación no se logró al 100%**, narra qué % se logró y por qué. No infles.
 

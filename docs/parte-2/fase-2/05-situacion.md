@@ -20,8 +20,8 @@ No es un resumen mecánico: es la **formulación final del problema** que justif
 
 ## Recomendaciones
 
-- Empezá con una **frase ancla** que sintetice el problema en una sola oración.
-- Conectá los problemas con la **misión y visión** de la comunidad (como hace el ejemplo al cierre): muestra que entendiste qué está en juego.
-- Distinguí entre problemas que **podés abordar** y problemas que **escapan al PST I** (esos deberían quedar mencionados, pero no comprometidos como meta).
-- Idealmente **3 a 4 párrafos**. Si te excedés, condensá.
+- Empieza con una **frase ancla** que sintetice el problema en una sola oración.
+- Conecta los problemas con la **misión y visión** de la comunidad (como hace el ejemplo al cierre): muestra que entendiste qué está en juego.
+- Distingue entre problemas que **puedes abordar** y problemas que **escapan al PST I** (esos deberían quedar mencionados, pero no comprometidos como meta).
+- Idealmente **3 a 4 párrafos**. Si te excedes, condensa.
 

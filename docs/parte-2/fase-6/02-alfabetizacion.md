@@ -42,10 +42,24 @@ El proyecto incluye guías escritas para cada herramienta enseñada:
 - **LibreOffice Impress** — pestañas principales, diseño de diapositivas, transiciones y animaciones, ejemplos prácticos.
 - **Canva** — creación de cuenta, interfaz, plantillas, personalización, elementos gráficos, exportación.
 
+### Estructura interna esperada de cada guía
+
+Cada guía didáctica es un **producto entregable independiente** y de alto valor para la comunidad. Para que sea reutilizable y didáctica, debe seguir la misma estructura interna:
+
+1. **Nombre y descripción breve de la herramienta.** Qué es, para qué sirve y con qué se compara (por ejemplo: *"LibreOffice Calc es la hoja de cálculo libre equivalente a Microsoft Excel"*).
+2. **Elementos básicos de la interfaz.** Captura de pantalla con los nombres de los componentes principales (barra de menú, cinta de opciones, área de trabajo, barra de estado).
+3. **Operaciones fundamentales paso a paso.** Guardado, apertura, formato básico — lo mínimo que el participante debe poder hacer sin ayuda al terminar la guía.
+4. **Funciones específicas relevantes para la comunidad.** No todas las funciones de la herramienta, solo las que el contexto exige. En el caso de Calc para árbitros: operaciones básicas, formato condicional y tablas dinámicas. En Writer: tablas, encabezados de informe y firma. En Impress: plantillas y exportación a PDF.
+5. **Al menos un ejercicio práctico contextualizado.** Aquí se separa una guía genérica descargada de internet de una guía útil para *esta* comunidad. Los ejercicios deben usar **datos reales de su realidad cotidiana** — para los árbitros: tarjetas amarillas, faltas por equipo, estadísticas arbitrales. Para una junta vecinal: padrón de asistencia a reuniones. Para una cooperativa: inventario simple.
+
+::: tip Verificación rápida
+Una guía está bien construida si **un participante de la comunidad, sin ti al lado**, puede abrirla y completar el ejercicio práctico final. Si necesita que tú le expliques, todavía le falta detalle.
+:::
+
 ## Recomendaciones
 
 - El **plan diario** se vuelve más fuerte si se referencia al cuestionario de diagnóstico inicial (qué nivel detectaste y cómo eso definió los contenidos).
 - Las **guías didácticas** deberían entregarse **impresas o digitales** a los participantes, no quedarse solo en el documento final del PST.
-- Pensá ejemplos pertinentes a la comunidad: en el ejemplo, se usa "tarjetas amarillas, faltas por equipo" para los ejercicios de Excel — eso es **alfabetización contextualizada**, no genérica.
-- Documentá con **fotos** y **listas de asistencia** cada encuentro (van en Evidencias).
+- Piensa ejemplos pertinentes a la comunidad: en el ejemplo, se usa "tarjetas amarillas, faltas por equipo" para los ejercicios de Excel — eso es **alfabetización contextualizada**, no genérica.
+- Documenta con **fotos** y **listas de asistencia** cada encuentro (van en Evidencias).
 

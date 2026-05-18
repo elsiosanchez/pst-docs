@@ -16,6 +16,6 @@ Reflexión sobre el ejercicio de planificar: qué fue lo más complejo de aterri
 
 ## Recomendaciones
 
-- Sé **honesto con los desfasajes**: ningún cronograma sobrevive intacto al contacto con la comunidad.
-- Mencioná **qué aprendiste sobre planificar**: la planificación misma es un aprendizaje del PST.
+- Sé **honesto con los desfases**: ningún cronograma sobrevive intacto al contacto con la comunidad.
+- Menciona **qué aprendiste sobre planificar**: la planificación misma es un aprendizaje del PST.
 

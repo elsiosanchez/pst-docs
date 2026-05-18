@@ -7,7 +7,7 @@ Una **tabla** donde se listen los problemas detectados y se les asigne:
 - **Jerarquía** — su nivel en la cadena causal (¿es causa raíz, consecuencia o factor contribuyente?).
 - **Priorización** — qué tan urgente o relevante es atenderlo (Alta · Media · Baja).
 
-Incluí también una **justificación** breve de por qué le diste esa prioridad a cada uno.
+Incluye también una **justificación** breve de por qué le diste esa prioridad a cada uno.
 
 ## Ejemplo de referencia
 
@@ -26,7 +26,7 @@ Incluí también una **justificación** breve de por qué le diste esa prioridad
 
 ## Recomendaciones
 
-- Usá **niveles numéricos** (Nivel 1, Nivel 2…) para mostrar relaciones causales: ayuda a transicionar al Árbol del Problema en el siguiente punto.
+- Usa **niveles numéricos** (Nivel 1, Nivel 2…) para mostrar relaciones causales: ayuda a transicionar al Árbol del Problema en el siguiente punto.
 - La columna **Justificación** es la más importante. Una tabla sin justificación es solo una lista decorada.
 - **Sé honesto con la priorización**: a veces el problema que tu equipo puede resolver no es el de mayor prioridad de la comunidad. Eso es válido, pero hay que **declararlo**.
 

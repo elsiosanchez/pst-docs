@@ -20,8 +20,8 @@ No es una historia personal: es la **biografía institucional** de la comunidad.
 
 ## Recomendaciones
 
-- Estructurá la historia en **tres capas** si tu comunidad pertenece a una red mayor: nacional → regional → local.
-- Mencioná **fechas clave** (fundación, cambios institucionales relevantes).
-- Si la comunidad es pequeña y no tiene historia formal documentada, **reconstruila a partir de entrevistas con voceros antiguos**.
-- Citá fuentes cuando uses datos históricos verificables.
+- Estructura la historia en **tres capas** si tu comunidad pertenece a una red mayor: nacional → regional → local.
+- Menciona **fechas clave** (fundación, cambios institucionales relevantes).
+- Si la comunidad es pequeña y no tiene historia formal documentada, **reconstrúyela a partir de entrevistas con voceros antiguos**.
+- Cita fuentes cuando uses datos históricos verificables.
 

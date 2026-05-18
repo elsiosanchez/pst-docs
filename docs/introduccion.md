@@ -10,25 +10,26 @@ El **PST I** es el primero de cuatro proyectos (PST I, II, III y IV), uno por ca
 - El **diagnóstico** de sus necesidades tecnológicas.
 - La **alfabetización tecnológica** y el **soporte técnico** como producto entregable.
 
-::: tip ¿Nunca hiciste un proyecto así?
-Tranquilo. Esta guía está pensada para acompañarte **desde la primera reunión con la comunidad hasta la defensa final**, sin asumir conocimientos previos. Si te quedás trabado en un apartado, usá el **buscador** (arriba a la derecha) para saltar al concepto.
+::: tip ¿Nunca has hecho un proyecto así?
+Tranquilo. Esta guía está pensada para acompañarte **desde la primera reunión con la comunidad hasta la defensa final**, sin asumir conocimientos previos. Si te quedas trabado en un apartado, usa el **buscador** (arriba a la derecha) para saltar al concepto.
 :::
 
 ## La estructura general del PST I
 
-El esquema oficial divide el trabajo en dos partes:
+El esquema oficial organiza el trabajo en tres partes:
 
 ```mermaid
 flowchart TD
   A[PST I] --> P1[Parte I — Abordaje y diagnóstico]
   A --> P2[Parte II — Planificación con EML]
+  A --> P3[Parte III — Resultados y Conclusiones]
   P2 --> F1[Fase I — Involucrados]
   P2 --> F2[Fase II — Problema]
   P2 --> F3[Fase III — Alternativas]
   P2 --> F4[Fase IV — Intencionalidad]
   P2 --> F5[Fase V — Estructura analítica]
   P2 --> F6[Fase VI — Ejecución]
-  P2 --> F7[Fase VII — Valoración]
+  P2 --> F7[Fase VII — Valoración + Evidencias]
 ```
 
 ## El Enfoque del Marco Lógico (EML) en una línea
@@ -47,11 +48,12 @@ Cada apartado de la guía sigue esta estructura:
 
 ## Antes de empezar — checklist mínimo
 
-- [ ] Tenés identificada (o estás por identificar) una **comunidad** dispuesta a recibirte.
-- [ ] Sabés con qué **tutor/asesor** vas a coordinar tus avances.
-- [ ] Tenés definido el **equipo de trabajo** (compañeros del PNFI).
-- [ ] Conocés los **plazos** del cuatrimestre.
+- [ ] Tienes identificada (o estás por identificar) una **comunidad** dispuesta a recibirte.
+- [ ] Sabes con qué **tutor/asesor** vas a coordinar tus avances.
+- [ ] Tienes definido el **equipo de trabajo** (compañeros del PNFI).
+- [ ] Conoces los **plazos** del semestre.
+- [ ] Tienes la **plantilla de portada y formato institucional** (ver [Portada, índice y formato](/recursos/formato-documento)).
 
-Si te falta alguno, anotalo y resolvelo en la primera semana — sin estos cuatro puntos el proyecto no arranca.
+Si te falta alguno, anótalo y resuélvelo en la primera semana — sin estos cinco puntos el proyecto no arranca.
 
-Empezá por la **[Parte I — Descripción del proceso de abordaje](/parte-1/descripcion-proceso)**.
+Empieza por la **[Parte I — Descripción del proceso de abordaje](/parte-1/descripcion-proceso)**.

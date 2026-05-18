@@ -17,7 +17,7 @@ Cada propósito específico debe poder traducirse luego en una **fila del Plan d
 ## Recomendaciones
 
 - Cada propósito específico empieza con un **verbo en infinitivo distinto**: capacitar, implementar, reducir, fomentar, evaluar...
-- Pensá los propósitos como una **escalera**: del más básico al más ambicioso.
+- Piensa los propósitos como una **escalera**: del más básico al más ambicioso.
 - Los últimos (4, 5) suelen ser **aspiracionales** o de **transición a otra fase**. Está bien, siempre que se aclare.
-- Si tenés un propósito que no podés cumplir en este semestre, dejá claro que es **proyectivo** y no parte del compromiso actual.
+- Si tienes un propósito que no puedes cumplir en este semestre, deja claro que es **proyectivo** y no parte del compromiso actual.
 

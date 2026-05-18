@@ -18,7 +18,7 @@ Reflexión sobre la ejecución: cómo se sostuvieron los talleres, qué pasó cu
 
 ## Recomendaciones
 
-- Mencioná **al menos un imprevisto** y cómo lo manejaron. Eso muestra capacidad de adaptación.
-- Reflexioná sobre el contraste entre el plan ideal (Fase V) y la ejecución real.
-- Si hubo participantes que no completaron el ciclo, decilo. No tiene sentido inflar números.
+- Menciona **al menos un imprevisto** y cómo lo manejaron. Eso muestra capacidad de adaptación.
+- Reflexiona sobre el contraste entre el plan ideal (Fase V) y la ejecución real.
+- Si hubo participantes que no completaron el ciclo, dilo. No tiene sentido inflar números.
 

@@ -25,8 +25,12 @@ Una **reflexión transversal de cierre**, distinta a las reflexiones de cada fas
 
 ## Recomendaciones
 
-- **Hablá del método**, no del proyecto. Si te encontrás diciendo "y entonces hicimos X actividad...", estás en la reflexión equivocada.
+- **Habla del método**, no del proyecto. Si te encuentras diciendo "y entonces hicimos X actividad...", estás en la reflexión equivocada.
 - Una buena reflexión del EML reconoce **al menos una limitación del enfoque**. Decir "fue perfecto" suena poco académico.
-- Cerrá con una **conclusión madura**: ¿qué te llevás del EML para futuros proyectos? ¿Qué cambiarías?
+- Cierra con una **conclusión madura**: ¿qué te llevas del EML para futuros proyectos? ¿Qué cambiarías?
 - Largo orientativo: **5 a 8 párrafos**.
+
+::: tip Diferencia con la Parte III
+Esta reflexión evalúa **la metodología** (el EML como herramienta). La [Parte III — Resultados y Conclusiones](/parte-3/resultados-conclusiones) evalúa **el proyecto en sí** (qué se logró y qué se aprendió como equipo). Son páginas complementarias, no equivalentes.
+:::
 

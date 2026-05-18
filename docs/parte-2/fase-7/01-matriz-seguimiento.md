@@ -30,9 +30,36 @@ Una **matriz** que permita evaluar el cumplimiento del proyecto. Las columnas t�
 La columna **Ponderación** debe sumar **100%** exactamente. En el ejemplo: 10 + 10 + 20 + 20 + 20 + 20 = **100** ✓
 :::
 
+::: info Cada medio de verificación necesita una evidencia
+Los documentos que respaldan la columna "Medio de verificación" se compilan en el [apartado de **Evidencias**](/parte-2/fase-7/02-evidencias) (fotografías, actas firmadas y selladas, Control de Visitas PST). Sin ese apartado, la matriz no se puede defender.
+:::
+
 ## Recomendaciones
 
 - Los **medios de verificación** deben ser **tangibles**: planes de trabajo entregados, fotografías, listas de asistencia, archivos digitales producidos, capturas de pantalla.
 - Distribuir **responsabilidades** entre los integrantes del equipo: nadie debe figurar como responsable de todo, ni nadie debe quedar sin responsabilidades.
-- Si un resultado **no se cumplió al 100%**, dejá registro de cuánto sí y cuánto no. La honestidad académica se valora.
+- Si un resultado **no se cumplió al 100%**, deja registro de cuánto sí y cuánto no. La honestidad académica se valora.
+
+::: danger Error muy frecuente — Responsable ≠ "equipo de proyecto"
+La columna **Responsable** no debe asignarse genéricamente al *"equipo de proyecto"*. Cada fila debe nombrar **integrantes específicos por nombre y apellido** (o por iniciales si el formato no entra).
+
+**Mal ejemplo:**
+
+| Actividad | Responsable |
+| --- | --- |
+| Talleres de Calc | Equipo de Proyecto |
+| Talleres de Writer | Equipo de Proyecto |
+| Mantenimiento de equipos | Equipo de Proyecto |
+
+**Bien hecho:**
+
+| Actividad | Responsable |
+| --- | --- |
+| Talleres de Calc | María Laura Pérez · Bill Chirinos · Maikol Aguilar · Katherine Escalona |
+| Talleres de Writer | Katherine Escalona |
+| Mantenimiento de equipos | Sub-equipo Soporte Técnico (Wilfredo H., Gino M.) |
+| Presentaciones en Impress | Wilfredo Hernández · Gino Martínez |
+
+**¿Por qué importa?** El evaluador debe poder verificar que el trabajo fue **distribuido y ejecutado realmente por personas concretas** del equipo, no concentrado en uno o dos integrantes. Una matriz con "equipo de proyecto" en todas las filas suele leerse como falta de organización interna o como un intento de ocultar quién hizo qué.
+:::
 

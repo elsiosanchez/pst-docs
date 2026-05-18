@@ -18,8 +18,8 @@ Debe acompañarse de la **dirección** y, idealmente, **puntos de referencia** c
 
 ## Recomendaciones
 
-- Usá una imagen **legible**: que se distingan calles, puntos clave y la ubicación exacta de la comunidad.
-- Marcá el **punto de encuentro** principal (sede, oficina, espacio de reunión).
-- Si tu comunidad no tiene un punto físico único (por ejemplo, un colectivo distribuido en varios barrios), considerá un **mapa de calor** o varios alfileres.
+- Usa una imagen **legible**: que se distingan calles, puntos clave y la ubicación exacta de la comunidad.
+- Marca el **punto de encuentro** principal (sede, oficina, espacio de reunión).
+- Si tu comunidad no tiene un punto físico único (por ejemplo, un colectivo distribuido en varios barrios), considera un **mapa de calor** o varios alfileres.
 - No olvides la **dirección postal** en texto: ayuda a quien lea el documento sin acceso al mapa.
 

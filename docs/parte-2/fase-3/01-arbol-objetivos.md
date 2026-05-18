@@ -22,12 +22,12 @@ Es la base para identificar alternativas de solución en el siguiente punto.
 2. **Tronco → Objetivo central.** El problema central, pero formulado en *positivo* y como meta.
 3. **Copa → Fines.** Los resultados esperados al lograr el objetivo (cómo se ve "el éxito").
 
-**Cómo armarlo en 4 pasos** ✍️
+**Cómo construirlo en 4 pasos** ✍️
 
-1. Tomá tu **árbol del problema** y poné al lado una hoja en blanco.
-2. **Reformulá el problema central en positivo** → ese es tu objetivo central.
-3. **Reformulá cada causa en positivo** → esos son los medios.
-4. **Reformulá cada efecto en positivo** → esos son los fines.
+1. Toma tu **árbol del problema** y pon al lado una hoja en blanco.
+2. **Reformula el problema central en positivo** → ese es tu objetivo central.
+3. **Reformula cada causa en positivo** → esos son los medios.
+4. **Reformula cada efecto en positivo** → esos son los fines.
 
   </div>
 </div>
@@ -63,7 +63,7 @@ Si dice *"Desconocimiento de Y"*, dirá *"Conocimiento de Y"*.
 :::
 
 ::: warning Errores frecuentes
-- **No copies y pegues** el problema con un *"no"* al frente: *"No analfabetismo"* no es un objetivo, es una negación. Buscá la forma positiva real (*"Alfabetización tecnológica"*).
+- **No copies y pegues** el problema con un *"no"* al frente: *"No analfabetismo"* no es un objetivo, es una negación. Busca la forma positiva real (*"Alfabetización tecnológica"*).
 - **No agregues medios mágicos** que no respondan a una causa del árbol original.
 - Los fines tienen que ser **consecuencias creíbles** del objetivo — no "deseos" sueltos.
 :::
@@ -90,9 +90,9 @@ Los **medios y fines** identificados (9 en total):
 
 ## Recomendaciones
 
-- Mantené **paralelismo** con el árbol del problema: cada raíz negativa tiene su raíz positiva.
+- Mantén **paralelismo** con el árbol del problema: cada raíz negativa tiene su raíz positiva.
 - No todos los medios tienen que ser **realistas** para este PST: algunos son aspiracionales (como el VAR del ejemplo). Eso se filtra en el siguiente punto (Alternativas).
-- El árbol de objetivos es la **brújula** del resto del proyecto: si lo armás mal, todo lo que sigue se desvía.
+- El árbol de objetivos es la **brújula** del resto del proyecto: si lo construyes mal, todo lo que sigue se desvía.
 - **Herramientas sugeridas:** Canva (plantilla "árbol de objetivos"), draw.io, Lucidchart o LibreOffice Draw. Ver [Plantillas y herramientas](/recursos/herramientas).
 
 <style>

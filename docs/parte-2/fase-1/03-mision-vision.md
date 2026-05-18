@@ -32,7 +32,7 @@ Lo importante es que el organigrama **describa el enfoque de organización** (je
 ## Recomendaciones
 
 - La misión se redacta en **presente** y la visión en **futuro o aspiracional**.
-- Si la comunidad **no tiene** misión/visión formal, podés ayudarla a construirla en un taller participativo (eso es parte del aporte del PST).
+- Si la comunidad **no tiene** misión/visión formal, puedes ayudarla a construirla en un taller participativo (eso es parte del aporte del PST).
 - Para el organigrama, herramientas útiles: **Canva**, **draw.io / diagrams.net**, **LibreOffice Draw**.
-- Si hay roles **vacantes** (como "Fútbol Playa: Vacante" en el ejemplo), mencionalos: dan información sobre el contexto real de la comunidad.
+- Si hay roles **vacantes** (como "Fútbol Playa: Vacante" en el ejemplo), menciónalos: dan información sobre el contexto real de la comunidad.
 
